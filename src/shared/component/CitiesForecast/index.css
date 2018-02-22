@@ -1,0 +1,29 @@
+button{
+    margin-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.main_block{
+    width: 80%;
+    border-top:10px solid #000000;
+}
+.astro, .dayForecast, .CityInfo, .Temp{
+    display: flex;
+    width: 100%;
+}
+
+.astro, .dayInfo, .Temp{
+    width: 16em;
+}
+
+.CityInfo{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dayForecast{
+    height: 20em;
+    justify-content: space-between;
+    padding: 2em 8em 2em 8em;
+}

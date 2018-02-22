@@ -1,0 +1,6 @@
+.listCities{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    top: 25em;
+}

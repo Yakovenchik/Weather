@@ -1,2 +1,9 @@
-# Weather
-Weather App where you can add different cities and it show you current and forecast weather in cities which you add earlier
+This app create for watch the weather in different places of th world.
+
+This project use different technologies such as react, mobx, bootstrap and webpack.
+
+You can see th field when you enter the city where you want to see forecast, in the bottom of this field you can see
+the list with cities which you added earlier, these are active links< if you click one of them, you will be scroll
+to current city, every city contain of information about forecast in 3 days, if you want to see next or previous day,
+click the arrow on slider which add to every city. When you enter the project, it try to find your coordinates and show
+you forecast for this place
